@@ -1,7 +1,7 @@
 ## Olá! Eu sou Erick Pova.
 
 - 🔭 Hoje estou em busca do primeiro emprego na área desenvolvimento
-- 🌱 Estudando Python.
+- 🌱 Estudando HTML5, CSS3 e JS.
 
  <div>
   <a href="https://github.com/Erick pova">
